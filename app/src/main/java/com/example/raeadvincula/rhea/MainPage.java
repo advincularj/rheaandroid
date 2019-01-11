@@ -12,5 +12,6 @@ public class MainPage extends AppCompatActivity {
 
         //pogi si gerald
         // rsefgh
+        // gfjnk
     }
 }
